@@ -25,7 +25,10 @@ REQUIREMENTS
 
 
 
-ITEM POINTS: the same as in the original, but divided by 10, because I only use a 16 bit number
+ITEM POINTS: The same as in the original, but divided by 10, because I only use a 16 bit number
 
-HIGH SCORES
-This program saves the high score by creating a file called pakuscor.dat
+HIGH SCORES: This program saves the high score by creating a file called pakuscor.dat
+
+BUGS: If pac-man dies while a ghost is dead (returning home) this ghost glitches out when the game resumes.
+(there are probably other bugs).
+
