@@ -1,6 +1,9 @@
 PAKU-PAC
 --------
 
+<img src="pakupac_001.png">
+
+
 Heavily Based on the code by alex james macpherson https://github.com/alexjamesmacpherson/pacman
 and jsmolina https://github.com/jsmolina/z88dk-tutorial-sp1/blob/master/logic.c#L442
 
