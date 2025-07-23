@@ -20,7 +20,7 @@ REQUIREMENTS
 
 - CPU: 8088 4.77 MHz or equivalent
 - RAM: 64 KB (if you use bootable image or PC-DOS), 128 KB (if you use MS-DOS).
-- VIDEO: EGA (128KB)
+- VIDEO: EGA (128KB) or VGA.
 - OS: Any MS-DOS or compatible.
 
 
