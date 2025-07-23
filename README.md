@@ -23,7 +23,8 @@ REQUIREMENTS
 - VIDEO: EGA (128KB) or VGA.
 - OS: Any MS-DOS or compatible.
 
-
+Watch the game in action:
+https://www.youtube.com/watch?v=b2MII5QfNlo
 
 ITEM POINTS: The same as in the original, but divided by 10, because I only use a 16 bit number
 
